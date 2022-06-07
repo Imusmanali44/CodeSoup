@@ -1,0 +1,7 @@
+<svg id="Arrow" xmlns="http://www.w3.org/2000/svg" width="20.073" height="20.073" viewBox="0 0 20.073 20.073">
+  <g id="Group_2" data-name="Group 2" transform="translate(20.073 20.073) rotate(180)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="20.073" height="20.073" fill="#e53167" opacity="0"/>
+    <path id="Path_5" data-name="Path 5" d="M2.091,5.52l4.1-4.1a.809.809,0,0,0,0-1.171.809.809,0,0,0-1.171,0L.251,5.018a.809.809,0,0,0,0,1.171l4.767,4.767A.828.828,0,0,0,6.189,9.786Z" transform="translate(3.178 4.516)" fill="#e53167"/>
+    <path id="Path_6" data-name="Path 6" d="M11.291,1.673H.836A.838.838,0,0,1,0,.836H0A.838.838,0,0,1,.836,0H11.291a.838.838,0,0,1,.836.836h0A.9.9,0,0,1,11.291,1.673Z" transform="translate(4.6 9.2)" fill="#e53167"/>
+  </g>
+</svg>
